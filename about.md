@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-[Craic Computing](https://www.craic.com) is a Bioinformatics Consulting Company founded by Dr Robert Jones
+[Craic Computing](https://www.craic.com) is a Bioinformatics Consulting Company founded by Dr Robert Jones.
 
-Craic provides advanced software development and data analysis services to the Biotechnology industry
+Craic provides advanced software development and data analysis services to the Biotechnology industry.
 
 
 This website, Craic Heavy Engineering, is a place for me to post about microcontrollers, electronics 
